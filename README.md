@@ -6,7 +6,7 @@ This project performs business analytics on user traffic and engagement data.
 It demonstrates the complete process from data cleaning → preprocessing → exploratory data analysis (EDA) → visualizations, providing insights into user behavior, engagement, and traffic sources.
 Technologies Used
 
-Python 🐍
+Python 
 
 Pandas (data cleaning & manipulation)
 
